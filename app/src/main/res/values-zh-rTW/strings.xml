@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Constraintlayout</string>
+    <string name="text_hello">哈囉 世界!</string>
+    <string name="text_bigger">放大</string>
+</resources>
